@@ -1,0 +1,26 @@
+x=[{question: "Whats your name", expectedAnswer: "Will", question: "Favorite color", expectedAnswer: "Blue", question: "Favorite animal", expectedAnswer: "Duck"}]
+
+
+
+
+ prompt(x[0], x[1]);
+ for (x= [0], x <[6], x ++)
+
+for (securityQuestions = securityQuestions[0], securityQuestions= expectedAnswer, securityQuestions[0]++);
+prompt(securityQuestions[0], expectedAnswer[0]);
+
+"Favorite color", "Favorite animal"];
+var expectedAnswer = ["Will", "blue", "duck"];
+
+prompt(securityQuestions[1], expectedAnswer[1]);
+while (expectedAnswer = [0]) {
+	expectedAnswer++;
+	securityQuestions += expectedAnswer;
+}
+
+securityQuestions += expectedAnswer;
+
+
+
+
+for (x = expectedAnswer[0,1,2], x>[2], x++)
